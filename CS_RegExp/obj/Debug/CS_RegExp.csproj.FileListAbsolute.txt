@@ -1,0 +1,7 @@
+C:\Users\teacher\Desktop\CS_RegExp\CS_RegExp\obj\Debug\CS_RegExp.csprojAssemblyReference.cache
+C:\Users\teacher\Desktop\CS_RegExp\CS_RegExp\obj\Debug\CS_RegExp.csproj.CoreCompileInputs.cache
+C:\Users\teacher\Desktop\CS_RegExp\CS_RegExp\bin\Debug\CS_RegExp.exe.config
+C:\Users\teacher\Desktop\CS_RegExp\CS_RegExp\bin\Debug\CS_RegExp.exe
+C:\Users\teacher\Desktop\CS_RegExp\CS_RegExp\bin\Debug\CS_RegExp.pdb
+C:\Users\teacher\Desktop\CS_RegExp\CS_RegExp\obj\Debug\CS_RegExp.exe
+C:\Users\teacher\Desktop\CS_RegExp\CS_RegExp\obj\Debug\CS_RegExp.pdb
